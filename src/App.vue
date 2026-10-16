@@ -24,8 +24,7 @@
           </p>
 
           <p>
-            I enjoy learning how different technologies work together
-            and creating projects that help me grow as a developer.
+           I enjoy learning how different technologies work together and creating projects that help me continue growing as a developer.
           </p>
 
           <a class="button" href="#about">Learn More</a>
