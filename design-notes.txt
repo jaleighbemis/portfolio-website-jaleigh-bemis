@@ -1,0 +1,90 @@
+Personal Professional Portfolio - Design Notes
+Jaleigh Bemis
+
+CONCEPTUAL SITE MAP
+
+Home
+|
+|-- About Me
+|
+|-- Projects
+|
+|-- Skills
+|
+|-- Contact
+
+The Home page is being created during Phase I. The other pages represent
+sections that may be added to the portfolio as the project grows throughout
+the semester.
+
+
+PAGE LAYOUT
+
+Header / Navigation
+|
+|-- Name
+|-- Home
+|-- About
+|-- Skills
+|
+Hero Section
+|
+|-- Future Developer heading
+|-- Name
+|-- Professional introduction
+|-- Learn More button
+|-- Professional photo
+|
+About Me Section
+|
+|-- Education
+|-- Career goals
+|-- Technology interests
+|
+Skills Section
+|
+|-- Vue
+|-- JavaScript
+|-- HTML & CSS
+|-- Python
+|-- SQL
+|-- Cybersecurity
+|
+Footer
+|
+|-- Name and copyright
+
+
+COLOR PALETTE
+
+Deep Charcoal
+#1F2329
+Main background color
+
+Dark Slate
+#272D35
+Secondary background color
+
+Slate Blue
+#7189A8
+Accent color used for buttons and headings
+
+Blue Gray
+#394553
+Borders and subtle design elements
+
+Soft Gray
+#C9CDD2
+Secondary text
+
+Soft Cream
+#F4F1EB
+Main text and headings
+
+
+DESIGN GOAL
+
+The goal of the site is to create a clean, professional, and modern
+portfolio with a darker color palette. The design focuses on readability,
+simple navigation, and information about my education, developing technical
+skills, and future career in technology.
